@@ -1,0 +1,21 @@
+/* skills-section...................................................................... */
+
+#skills-section {
+    height: 100vh;
+    width: 100%;
+    background-color: #000000;
+    color: #fff;
+    font-family: monospace;
+}
+
+.skills-section-heading {
+    height: 3.5rem;
+}
+
+.skil1-heading {
+    font-size: 37.5px;
+    margin: 0 0 0 2rem;
+    position: relative;
+}
+
+
